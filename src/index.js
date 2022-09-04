@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-import jsonData from "../MOCK_DATA.json";
+import jsonData from "./MOCK_DATA.json";
 
 console.log(jsonData);
 const root = ReactDOM.createRoot(document.getElementById("root"));
