@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Routes>
-        <Route path="/" element={<Jobs />} />
+        <Route path="/react-deploy" element={<Jobs />} />
       </Routes>
     </div>
   );
